@@ -1,3 +1,14 @@
+# Version 0.6.0
+
+- Support plotmath expression and add new parameter `parse` to function. Fixes issue #64.
+  Thanks to @IndrajeetPatil for the idea.
+
+# Version 0.5.0
+
+- Fix typos in README.md (thanks to @SMargell)
+- map_signif_level can now take a user-supplied function to format the
+p-value (PR #52, thanks to @ilia-kats)
+
 
 # Version 0.4.0
 
